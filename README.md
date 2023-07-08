@@ -11,4 +11,5 @@
   <li>All of the dependencies not listed here that underpin the aformentioned dependencies</li>
 </ul>
 <p>This script was created and tested on a RHEL 9 (RedHat Enterprise Linux 9) based system, running on a Dell XPS laptop with an Intel Core i7 CPU, 16GB of RAM, and an Nvidia 3050TI with 4GB GDDR5 memory. See the attached video link, contained within the video.txt file in this repository, for an in-depth explanation of how this script was created, how it can be modified to support different operating environments and precision levels, and a demonstration of its functions.</p>
+<p>The 'clips' directory referenced in the simplewhisper.py script is not included in this repository, however the data contained wihtin it can be downloaded from the link contained in the clips.txt file.</p>
 <p>Brenden Lynch, 2023</p>
